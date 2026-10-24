@@ -1,11 +1,1 @@
-# Jawaninja
-
-## Dev
-
-```sh
-    jekyll serve --watch
-```
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
+Old home of jawaninja.com. The blog has moved to https://reify.se/blog/, and every page here redirects there.
